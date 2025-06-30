@@ -5,11 +5,9 @@ This project fetches live weather data from the OpenWeatherMap API, validates it
 🚀 How to Use
 Clone the repository
 
-bash
-Kopyala
-Düzenle
 git clone https://github.com/yourusername/weather-xml-processor.git
 cd weather-xml-processor
+
 Add your OpenWeatherMap API key
 
 Open WeatherHttpClient.java
@@ -22,9 +20,6 @@ You can run the project from your IDE (IntelliJ / Eclipse)
 
 Or compile and run using terminal:
 
-bash
-Kopyala
-Düzenle
 javac -d out src/**/*.java
 java -cp out Main
 Check outputs
